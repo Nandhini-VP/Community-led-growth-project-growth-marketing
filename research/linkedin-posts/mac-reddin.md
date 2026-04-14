@@ -14,16 +14,31 @@ Go-to-network (GTN) is not a finite resource but a compounding flywheel. As netw
 **My Take:**  
 This reinforces that community-led growth operates as a scalable acquisition and retention engine. By turning users into advocates, CLG creates a compounding loop where each new participant contributes to future growth.
 
-## Post 2: Community as a driver of innovation
+## Post 2: The warm intro gap
 
 **Date:** 2026  
 
-**URL:** https://www.linkedin.com/posts/laisdeoliveira_the-most-innovative-companies-working-on-activity-7442295296216190976-dk8y  
+**URL:** https://www.linkedin.com/posts/mac-reddin_the-warm-intro-gap-report-activity-7422244786612445185-astV  
 
-**Quote:** "The most innovative companies are building with community"
+**Quote:** "There’s a gap between network potential and actual usage"
 
 **Key Insight:**  
-Companies are increasingly using community not just for engagement, but also to gather feedback and improve their products over time.
+There is a gap between the number of potential warm introductions available in a network and how often they are actually used. Most teams underutilize their existing network when generating pipeline.
 
 **My Take:**  
-This shows that community-led growth can also support product development. When users are actively involved, it becomes easier to understand their needs and improve the product accordingly.
+This highlights a key problem that community-led growth solves. While companies have access to strong networks, they often lack systems to activate them. CLG helps structure and activate these relationships, turning passive connections into active growth channels.
+
+## Post 3: Activating warm introductions
+
+**Date:** 2026  
+
+**URL:** https://www.linkedin.com/posts/mac-reddin_the-warm-intro-gap-report-activity-7420094212714532864-uqE4  
+
+**Quote:** "Warm introductions are underutilized in most GTM strategies"  
+
+**Key Insight:**  
+Many companies have access to warm introductions through their network, but fail to actively use them as part of their growth strategy.
+
+**My Take:**  
+This reinforces the importance of structured community systems in CLG. Instead of relying on ad-hoc networking, companies can use community to consistently activate relationships and generate high-quality opportunities.
+
