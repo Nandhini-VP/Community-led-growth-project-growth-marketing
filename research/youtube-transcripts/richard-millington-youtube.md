@@ -1,8 +1,12 @@
-# Richard Millington — YouTube Insights
+# Richard Millington — YouTube Transcript
 
-## Video 1: Stop chasing engagement
+## Video: Stop Chasing Engagement in Communities  
+**Channel:** FeverBee  
+**URL:** https://www.youtube.com/watch?v=TCzc9qjOeXA  
+**Date:** 2023
 
-**Link:** https://www.youtube.com/watch?v=TCzc9qjOeXA  
+## Summary  
+Richard Millington explains why engagement is often misunderstood in community building and why focusing on value and outcomes is more important than maximizing activity.
 
 ## Key Insights
 
@@ -20,8 +24,6 @@ People join communities to solve problems, learn, and connect. Success should be
 
 **5. Quality > quantity**  
 A smaller community with meaningful interactions and strong relationships is more valuable than a large but noisy one.
-
----
 
 ## My Take  
 This shows that community-led growth should focus on delivering value rather than driving activity. By prioritizing meaningful outcomes over engagement metrics, companies can build more sustainable and impactful communities.
