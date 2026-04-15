@@ -2,8 +2,7 @@
 
 ## Video: Stop Chasing Engagement in Communities  
 **Channel:** FeverBee  
-**URL:** https://www.youtube.com/watch?v=TCzc9qjOeXA  
-**Date:** 2023
+**Link:** https://www.youtube.com/watch?v=TCzc9qjOeXA  
 
 ## Summary  
 Richard Millington explains why engagement is often misunderstood in community building and why focusing on value and outcomes is more important than maximizing activity.
