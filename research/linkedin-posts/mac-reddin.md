@@ -2,9 +2,7 @@
 
 ## Post 1: Go-to-network is a compounding flywheel
 
-**Date:** April 2026  
-
-**URL:** https://www.linkedin.com/posts/mac-reddin_go-to-network-is-a-short-term-thing-you-activity-7315689974308216832-W8Nj  
+**Link:** https://www.linkedin.com/posts/mac-reddin_go-to-network-is-a-short-term-thing-you-activity-7315689974308216832-W8Nj  
 
 **Quote:** "Go-to-network is a compounding flywheel"  
 
@@ -14,11 +12,9 @@ Go-to-network (GTN) is not a finite resource but a compounding flywheel. As netw
 **My Take:**  
 This reinforces that community-led growth operates as a scalable acquisition and retention engine. By turning users into advocates, CLG creates a compounding loop where each new participant contributes to future growth.
 
-## Post 2: The warm intro gap
+## Post 2: The warm intro gap 
 
-**Date:** 2026  
-
-**URL:** https://www.linkedin.com/posts/mac-reddin_the-warm-intro-gap-report-activity-7422244786612445185-astV  
+**Link:** https://www.linkedin.com/posts/mac-reddin_the-warm-intro-gap-report-activity-7422244786612445185-astV  
 
 **Quote:** "There’s a gap between network potential and actual usage"
 
@@ -28,11 +24,9 @@ There is a gap between the number of potential warm introductions available in a
 **My Take:**  
 This highlights a key problem that community-led growth solves. While companies have access to strong networks, they often lack systems to activate them. CLG helps structure and activate these relationships, turning passive connections into active growth channels.
 
-## Post 3: Activating warm introductions
+## Post 3: Activating warm introductions 
 
-**Date:** 2026  
-
-**URL:** https://www.linkedin.com/posts/mac-reddin_the-warm-intro-gap-report-activity-7420094212714532864-uqE4  
+**Link:** https://www.linkedin.com/posts/mac-reddin_the-warm-intro-gap-report-activity-7420094212714532864-uqE4  
 
 **Quote:** "Warm introductions are underutilized in most GTM strategies"  
 
